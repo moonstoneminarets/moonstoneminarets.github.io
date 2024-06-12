@@ -1,1 +1,1 @@
-# [Moonstone Minarets](https://moonstoneminarets.com)
+# [Moonstone Minarets](https://moonstoneminarets.github.io)
