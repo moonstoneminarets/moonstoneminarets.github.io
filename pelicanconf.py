@@ -1,6 +1,6 @@
 AUTHOR = ''
 SITENAME = 'Moonstone Minarets'
-SITEURL = 'https://moonstone-minarets.github.io/website'
+SITEURL = 'https://moonstoneminarets.github.io'
 
 PATH = 'content'
 
