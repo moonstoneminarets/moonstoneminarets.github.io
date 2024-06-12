@@ -16,7 +16,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Mailing List', '#'),)
+#LINKS = (('Mailing List', 'pages/mailing-list.html'),)
 
 # Social widget
 SOCIAL = ()# (('You can add links in your config file', '#'),
