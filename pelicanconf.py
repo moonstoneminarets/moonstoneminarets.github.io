@@ -28,3 +28,8 @@ THEME = 'themes/flex'
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+# Buncha links. They appear BEFORE the pages list in the sidebar. See: sidebar.html
+LINKS = (
+    ('Home', '/'), # trailing comma marks it as a list? of tuples
+)

@@ -43,6 +43,12 @@
           {%- endif -%}
         {%- endmacro %}
 
+        {% for name, link in LINKS %}
+          <li>
+            <a target="{{ get_target(link) }}" href="{{ link }}" >{{ name }}</a>
+          </li>
+        {% endfor %}
+
         {% if PAGES_SORT_ATTRIBUTE -%}
           {% set pages = pages|sort(attribute=PAGES_SORT_ATTRIBUTE) %}
         {%- endif %}
@@ -57,12 +63,6 @@
             </li>
           {% endfor %}
         {% endif %}
-
-        {% for name, link in LINKS %}
-          <li>
-            <a target="{{ get_target(link) }}" href="{{ link }}" >{{ name }}</a>
-          </li>
-        {% endfor %}
       </ul>
     </nav>
     {% endif %}
