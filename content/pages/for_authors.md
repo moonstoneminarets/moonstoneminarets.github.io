@@ -4,7 +4,7 @@ Title: For Authors
 
 I'm looking for fiction for adult and young-adults, primarily novels. I will also consider short story collections and novellas. Genre and topic can cover anything in the diverse breadth of fantasy, science-fantasy, and science fiction; perhaps horror, or other genres, if they're good.
 
-Content must meet my criteria for being "Islamically acceptable," which you can read about on the [about page]({filename}/pages/about.md). This is also subject to my discretion, as you might sometimes need to break the rules to deliver your book's message.
+Content must meet my criteria for being "Islamically acceptable," which you can read about on the [about page]({filename}/pages/about.md). This is also subject to my discretion, as you might sometimes need to break the rules to deliver your book's message. It should also be between 60-700 pages in length.
 
 **Please do not send your work until you feel it's ready to be published to the world!** Due to time and resource limitations, I can only read it once, and I don't accept "updated" versions later on; you get one shot to make a great impression, so make it good!
 
@@ -47,6 +47,6 @@ I pay you when I get paid, which is typically weeks to months after someone actu
 
 ## Submission Process
 
-If you would like to proceed, please fill out [this form](#) to submit your work.
+If you would like to proceed, please fill out [this form](https://forms.gle/5y4eq3tKYGK1RAym8) to submit your final, complete, publishing-ready manuscript.
 
 If another venue agrees to publish your work, which you submitted to me, congratulations! Please [contact me](mailto:alibhai.ashiq@gmail.com) to withdraw your submission.
