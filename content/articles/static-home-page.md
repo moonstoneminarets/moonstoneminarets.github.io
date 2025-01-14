@@ -2,12 +2,9 @@ Title: Published Works
 Date: 2023-10-19
 save_as: index.html
 
-## Jannah Journeys
+## Jannah Journies
 
-Below, you can find wholesome, faith-inspired audio stories that spark young imaginations and nurture Islamic values, one captivating tale at a time.
-
-<!-- TODO: make a proper page with an item per title, like we have a books page ... uh ... guess we need that too. -->
-[![The Little Lantern](images/jannah-journeys/the-little-lantern.png)]({filename}/articles/jannah-journeys/the-little-lantern.md)
+[Jannah Journies]({filename}/pages/jannah-journeys.md) are wholesome, faith-inspired audio stories that spark young imaginations and nurture Islamic values, one captivating tale at a time.
 
 ## Books
 
