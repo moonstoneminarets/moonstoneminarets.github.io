@@ -33,3 +33,7 @@ RELATIVE_URLS = True
 LINKS = (
     ('Home', '/'), # trailing comma marks it as a list? of tuples
 )
+
+# How many words to show before "Continue Reading"
+SUMMARY_MAX_LENGTH = None
+SUMMARY_MAX_PARAGRAPHS = None
