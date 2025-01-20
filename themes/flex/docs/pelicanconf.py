@@ -72,7 +72,7 @@ DEFAULT_PAGINATION = 10
 DISQUS_SITENAME = "flex-pelican"
 ADD_THIS_ID = "ra-55adbb025d4f7e55"
 
-STATIC_PATHS = ["images", "extra/ads.txt", "extra/CNAME"]
+STATIC_PATHS = ["images",  "audio", "extra/CNAME"]
 
 EXTRA_PATH_METADATA = {
     "extra/ads.txt": {"path": "ads.txt"},
