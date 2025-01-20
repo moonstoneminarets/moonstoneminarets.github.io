@@ -10,6 +10,8 @@ Date: 2025-01-14
     Your browser does not support playing the story audio! 😭
 </audio>
 
+<img style="width: 50%; height: 50%;" src="|static|/images/jannah-journeys/the-little-lantern.png" />
+
 ## Text
 
 Once upon a time, in a small village nestled between two mountains, there was a tiny lantern named Noor. Noor lived in the village masjid, hanging high above the prayer mats. He was proud of his job, shining brightly during the night prayers and guiding the worshippers as they bowed and prostrated.
