@@ -1,6 +1,6 @@
 from datetime import datetime
 
-AUTHOR = "Alexandre Vicenzi"
+AUTHOR = "Night Blade"
 SITEURL = "http://localhost:8000"
 SITENAME = "Flex"
 SITETITLE = "Flex"
@@ -45,10 +45,10 @@ USE_FOLDER_AS_CATEGORY = False
 MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
-GITHUB_CORNER_URL = "https://github.com/alexandrevicenzi/Flex"
+#GITHUB_CORNER_URL = "https://github.com/alexandrevicenzi/Flex"
 
 SOCIAL = (
-    ("github", "https://github.com/alexandrevicenzi/Flex"),
+    #("github", "https://github.com/alexandrevicenzi/Flex"),
     ("rss", "/blog/feeds/all.atom.xml"),
 )
 
@@ -75,7 +75,6 @@ ADD_THIS_ID = "ra-55adbb025d4f7e55"
 STATIC_PATHS = ["images",  "audio", "extra/CNAME"]
 
 EXTRA_PATH_METADATA = {
-    "extra/ads.txt": {"path": "ads.txt"},
     "extra/CNAME": {"path": "CNAME"},
 }
 
