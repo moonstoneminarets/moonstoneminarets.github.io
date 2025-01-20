@@ -5,7 +5,8 @@ Date: 2025-01-14
 ## Audio
 
 <audio controls>
-    <source src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg">
+    <source src="https://moonstoneminarets.github.io/content/jannah_journeys/TheLittleLantern.mp3" type="audio/mpeg">
+    <source src="https://moonstoneminarets.github.io/content/jannah_journeys/TheLittleLantern.m4a" type="audio/mp4">
     Your browser does not support playing the story audio! 😭
 </audio>
 
