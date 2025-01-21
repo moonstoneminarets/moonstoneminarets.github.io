@@ -30,5 +30,10 @@
     "gulp-less": "^4.0.1",
     "gulp-rename": "^2.0.0",
     "gulp-uglify": "^3.0.2"
+  },
+  "devDependencies": {
+    "gulp-jscs": "^4.1.0",
+    "gulp-jshint": "^2.1.0",
+    "jshint": "^2.13.6"
   }
 }
