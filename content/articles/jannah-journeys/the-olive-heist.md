@@ -14,7 +14,7 @@ Date: 2025-01-24
 
 ## Text
 
-Once upon a time, in the lively town of Noorville, lived two best friends: Abdurrahman, the fastest hedgehog in the land, and Abdullah, the smartest fox with a Super Strong Prayer Mat that he could whirl like a spinning top to fly. They were known across the town for their bravery, kindness, and love for helping people.
+Once upon a time, in the lively town of Noorville, lived two best friends: Abdurrahman, the fastest camel in the land, and Abdullah, the smartest falcon, with a Super Strong Prayer Mat that he could whirl like a spinning top to fly. They were known across the town for their bravery, kindness, and love for helping people.
 
 But there was one person they cared about most: their friend, Olive Master. Olive Master was a kind-hearted man who loved making the best olive pizzas in the Noorville town. He was famous for saying, "An olive pizza at iftar brings joy after!" But lately, Olive Master had been acting a little strange. He wore his pizza apron like a cape, spoke in rhymes, and sometimes forgot he was baking, leaving the pizzas in the oven for too long.
 
