@@ -44,7 +44,7 @@
   <meta property="og:locale" content="en_US"/>
   <meta property="og:url" content=".."/>
 
-  <title> &ndash; Category jannah-journeys - Moonstone Minarets</title>
+  <title> &ndash; Posts by : - Moonstone Minarets</title>
 
 
 </head>
@@ -140,7 +140,10 @@
 </article>
 
   <div class="pagination">
-    <a class="btn float-right" href="../category/jannah-journeys.html">
+    <a class="btn float-left" href="../author/.html3">
+      <i class="fa fa-angle-left"></i> Older Posts
+    </a>
+    <a class="btn float-right" href="../author/.html">
       Newer Posts <i class="fa fa-angle-right"></i>
     </a>
   </div>

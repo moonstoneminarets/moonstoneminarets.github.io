@@ -137,7 +137,7 @@
     {% include "partial/og.html" %}
   {% endblock %}
 
-  <title>{{ SITENAME }}{% block title %}{% endblock %}</title>
+  <title>{% block title %}{% endblock %} - {{ SITENAME }}</title>
 
   {% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.page_level_ads %}
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

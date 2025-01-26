@@ -1,3 +1,5 @@
+### Dev and prod config ###
+
 AUTHOR = ''
 SITENAME = 'Moonstone Minarets'
 SITEURL = 'https://moonstoneminarets.github.io'
@@ -37,5 +39,3 @@ LINKS = (
 # How many words to show before "Continue Reading"
 SUMMARY_MAX_LENGTH = None
 SUMMARY_MAX_PARAGRAPHS = None
-
-GOOGLE_ANALYTICS = "G-RPXBZ4EK6F"
