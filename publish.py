@@ -1,3 +1,3 @@
 import os
 
-os.system("pelican content -s publishconf.py")
+os.system(f"pelican content -s publishconf.py")
