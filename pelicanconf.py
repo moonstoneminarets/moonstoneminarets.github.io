@@ -2,7 +2,7 @@
 
 AUTHOR = ''
 SITENAME = 'Moonstone Minarets'
-SITEURL = 'https://moonstoneminarets.github.io'
+SITEURL = 'localhost:8000'
 
 PATH = 'content'
 
@@ -18,7 +18,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-#LINKS = (('Mailing List', 'pages/mailing-list.html'),)
+LINKS = (
+    ('Mailing List', 'pages/mailing-list.html'),
+    ("Ashiq Alibhai, Author", "https://www.ashiqalibhai.com"),)
 
 # Social widget
 SOCIAL = ()# (('You can add links in your config file', '#'),
