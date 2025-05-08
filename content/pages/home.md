@@ -28,6 +28,20 @@ Below are books we published. Click on any title to see more details, and purcha
 
 <div class="book-grid">
     <div class="book-image">
+        <a href="https://moonstoneminarets.com/facts-about-palestine.html">
+            <img src="https://moonstoneminarets.com/images/covers/facts-about-palestine.jpg" alt="Facts About Palestine cover" />
+        </a>
+    </div>
+    <div class="book-info">
+        <h2 class="book-title"><a href="https://moonstoneminarets.com/facts-about-palestine.html">Facts About Palestine</a></h2>
+        <p class="book-summary"><p>Journey into Palestine's enduring quest for justice, from 1917 to today. Uncover historical human rights violations, told through meticulously researched facts and quotes. This book navigates the complex history and challenges faced by Palestinians, shedding light on the injustices that have endured through the decades.</p></p>
+        <p><a class="read-more" href="https://moonstoneminarets.com/facts-about-palestine.html">Read more →</a></p>
+    </div>
+</div>
+        
+
+<div class="book-grid">
+    <div class="book-image">
         <a href="https://moonstoneminarets.com/minaret-adventures.html">
             <img src="https://moonstoneminarets.com/images/covers/minaret-adventures.jpg" alt="Minaret Adventures cover" />
         </a>
