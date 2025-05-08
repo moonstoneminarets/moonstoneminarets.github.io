@@ -4,7 +4,7 @@ Modified: 2015-07-22 08:00
 Category: News
 Tags: pelican, python, theme
 Slug: flex-pelican-theme
-Cover: images/flex-screenshot.png
+cover: images/flex-screenshot.png
 
 I just start a new fresh blog using [Pelican](http://getpelican.com). Sometimes choosing a theme for a new site is something difficult that takes time.
 

@@ -51,7 +51,7 @@ This version includes de, en, es, es_ES, et, fa_IR, fr, hu_HU, it, nl_NL, pl_PL,
 - [Minute read like Medium](https://github.com/alexandrevicenzi/Flex/issues/48) (via plugin)
 - [Theme translations](https://github.com/alexandrevicenzi/Flex/wiki/Translation-support)
 - Updated font-awesome
-- Changed `Cover` metadata to use relative path
+- Changed `cover` metadata to use relative path
 
 This version includes de, fr and pt_BR translations.
 

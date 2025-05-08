@@ -1,4 +1,4 @@
-### Dev and prod config ###
+import datetime
 
 AUTHOR = ''
 SITENAME = 'Moonstone Minarets'
@@ -8,7 +8,13 @@ PATH = 'content'
 
 TIMEZONE = 'Canada/Eastern'
 
+THEME = 'themes/flex'
+
 DEFAULT_LANG = 'en'
+
+STATIC_PATHS = ['images']
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -18,14 +24,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (
-    ('Mailing List', 'pages/mailing-list.html'),
-    ("Ashiq Alibhai, Author", "https://www.ashiqalibhai.com"),)
+LINKS = ()
 
 # Social widget
-SOCIAL = ()# (('You can add links in your config file', '#'),
-           #('Another social link', '#'),)
-
+SOCIAL = ()
+    
 DEFAULT_PAGINATION = True
 
 THEME = 'themes/flex'
@@ -41,3 +44,5 @@ LINKS = (
 # How many words to show before "Continue Reading"
 SUMMARY_MAX_LENGTH = None
 SUMMARY_MAX_PARAGRAPHS = None
+
+COPYRIGHT_YEAR = datetime.datetime.now().year

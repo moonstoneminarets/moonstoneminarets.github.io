@@ -4,7 +4,7 @@ Modified: 2018-06-24 08:00
 Category: News
 Tags: pelican, python, theme
 Slug: flex-pelican-theme-update-2-2
-Cover: images/flex-screenshot.png
+cover: images/flex-screenshot.png
 
 [Flex theme](https://github.com/alexandrevicenzi/Flex) 2.2.0 comes with bug fixes and improvements.
 
