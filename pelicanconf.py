@@ -2,19 +2,19 @@ import datetime
 
 AUTHOR = ''
 SITENAME = 'Moonstone Minarets'
-SITEURL = 'localhost:8000'
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
-
 TIMEZONE = 'Canada/Eastern'
-
 THEME = 'themes/flex'
-
 DEFAULT_LANG = 'en'
 
 STATIC_PATHS = ['images']
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
+
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['home_content_injector']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
